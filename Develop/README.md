@@ -1,4 +1,4 @@
-<h1 align="center">04 Web APIs
+<h1 align="center">Code Quiz
 
 # Purpose
 This is a code quiz program. You will have 20mins to answer 15 questions. The questions are base on web developing; html, css, javaScript, and Jquery. 

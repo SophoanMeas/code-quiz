@@ -8,7 +8,7 @@ The purpose is to implement APIs from the lib to make the quiz functional, such 
 Click on the link below to view the web page.
   
   
-<a href="https://sophoanmeas.github.io/code-quiz/Develop/index.html" target="_blank"><h2>➡️Code Quiz</a>
+<a href="https://sophoanmeas.github.iocode-quiz/Develop/index.html" target="_blank"><h2>➡️Code Quiz</a>
 
 ## How to use the Code Quiz
   <ol>
